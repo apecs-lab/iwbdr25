@@ -1,0 +1,140 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;  /* unify page background to white */
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    background-color: #333;  /* match nav bar color */
+    color: white;
+    text-align: center;
+    padding: 1.5em 1em 2.5em;  /* extra bottom padding as dark spacer */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.header-subtitle {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: normal;
+    opacity: 0.8;
+}
+
+.header-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 150px;
+}
+
+nav {
+    padding: 0.5em 0;  /* add vertical padding to nav */
+    background-color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+nav ul li a:hover {
+    background-color: #111;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+.content-window {
+    /* fill available space and center inner content */
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    overflow: hidden;
+}
+
+.markdown-content {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    height: 100%;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+/* Banner image styling */
+.banner-container {
+    text-align: center;
+    margin-bottom: 1em;
+}
+.banner-img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;  /* adjust as needed */
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #f1f1f1;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer button:hover {
+    background-color: #45a049;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
