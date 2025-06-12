@@ -2,7 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;  /* unify page background to white */
+    background-color: #ffffff39;  /* unify page background to white */
     display: flex;
     flex-direction: column;
     height: 100vh;
@@ -95,6 +95,7 @@ main {
 }
 
 .markdown-content {
+    line-height: 1.5;   /* increase line spacing */
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
@@ -137,4 +138,14 @@ footer button {
 footer button:hover {
     background-color: #45a049;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Layout wrapper classes */
+.outer {
+    display: flex;
+    justify-content: center;
+}
+.inner {
+    max-width: 800px;
+    width: 100%;
 }

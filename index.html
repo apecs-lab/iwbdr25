@@ -87,6 +87,13 @@
 	    max-width: 600px;
             text-align: center;
 	}   
+	.outer {
+            display: flex;
+            justify-content: center;
+        }
+        .inner {
+            max-width: 1200px; /* adjust the max-width value as needed */
+        }
 	@media (max-width: 600px) {
             nav ul.center-nav {
             flex-wrap: wrap;
@@ -112,19 +119,23 @@
     </header>
     <nav>
         <ul class="center-nav">
-            <li><a href="#" onclick="loadMarkdown('pages/introduction.md', this)">Home</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/introductions.md', this)">Home</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/call-for-contribution.md', this)">Call for Contribution</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/program.md', this)">Program</a></li>
-            <li><a href="#" onclick="loadMarkdown('pages/organization.md', this)">Organization</a></li>
-            <li><a href="#" onclick="loadMarkdown('pages/contact-us.md', this)">Contact Us</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/organizations.md', this)">Organization</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/contact.md', this)">Contact Us</a></li>
         </ul>
     </nav>
-    <main>
-        <div class="content-window">
-            <div id="content-frame" class="markdown-content"></div>
+    <div class="outer">
+        <div class="inner">
+            <main>
+                <div class="content-window">
+                    <div id="content-frame" class="markdown-content" style="text-align: justify; text-justify: inter-word;"></div>
+                </div>
+            </main>
         </div>
-    </main>
-    
+    </div>
+
     <!-- Load default page on startup -->
     <script>
         function loadMarkdown(file, element) {
@@ -141,7 +152,7 @@
         }
         
         window.onload = function() {
-            loadMarkdown('pages/introduction.md', document.querySelector('.center-nav a'));
+            loadMarkdown('pages/introductions.md', document.querySelector('.center-nav a'));
         };
     </script>
 </body>
