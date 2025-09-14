@@ -6,7 +6,6 @@
 * Shan Huang, Stevens Institute of Technology, USA
 
 ## Program Committee Members
-* Allison Baker, National Center for Atmospheric Research, USA
 * Chengming Zhang, Houston
 * Daoce Wang, University of Nebraska Omaha, USA
 * Franck Cappello, Argonne National Laboratory, USA
@@ -24,6 +23,7 @@
 * Sheng Di, Argonne National Laboratory, USA
 * Sian Jin, Temple University, USA
 * Soumya Dutta, Indian Institute of Technology, Kanpur (IITK), India
+* Shan Huang, Stevens Institute of Technology, USA
 * Weijian Zheng, Argonne National Laboratory, USA
 
 
