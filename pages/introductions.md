@@ -41,4 +41,5 @@ new research directions, and foster new collaborations within the community.
 
 ### Updates
 
-* [06/12/2025] IWBDR-5 website is online.
+* [07/2025] Submission site is open ([link](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)).
+* [06/2025] IWBDR-5 website is online.
