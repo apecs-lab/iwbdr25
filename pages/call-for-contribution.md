@@ -31,7 +31,7 @@ reduced data
 * Data reduction challenges and solutions in observational and experimental environments
 
 ## Proceedings
-All papers accepted for this workshop will be published in the Conference Proceedings of IEEE Big Data, made available in the IEEE eXplore digital library.
+All papers accepted for this workshop will be published in the Workshop Proceedings of the IEEE Big Data Conference, made available in the IEEE eXplore digital library.
 
 ## Submission Instructions
 * Camera-ready version of accepted papers must be compliant with the IEEE Xplore format for publication.
