@@ -6,24 +6,18 @@
 * Shan Huang, Stevens Institute of Technology, USA
 
 ## Program Committee Members
-* Allison Baker, National Center for Atmospheric Research, USA
-* Chengming Zhang, Houston
-* Daoce Wang, University of Nebraska Omaha, USA
-* Franck Cappello, Argonne National Laboratory, USA
-* Hanqi Guo, Ohio State University, USA
-* Hongyuan Liu, Stevens Institute of Technology, USA
-* Jesus Pulido, Los Alamos National Laboratory, USA
-* Jiannan Tian, University of Kentucky, USA
-* Jieyang Chen, University of Oregon, USA
-* Jon Calhoun, Clemson University, USA
-* Kai Zhao, Florida State University, USA
 * Martin Burtscher, Texas State University, USA
+* Franck Cappello, Argonne National Laboratory, USA
+* Jieyang Chen, University of Oregon, USA
+* Tejaswani Dash, Captital Group, USA
+* Sheng Di, Argonne National Laboratory, USA
+* Soumya Dutta, Indian Institute of Technology, Kanpur (IITK), India
 * Pascal Grosset, Los Alamos National Laboratory, USA
 * Shan Huang, Stevens Institute of Technology, USA
-* Shaomeng Li, Nvidia Corporation, USA
-* Sheng Di, Argonne National Laboratory, USA
-* Sian Jin, Temple University, USA
-* Soumya Dutta, Indian Institute of Technology, Kanpur (IITK), India
+* Hongyuan Liu, Stevens Institute of Technology, USA
+* Jiannan Tian, University of Kentucky, USA
+* Chengming Zhang, University of Houston, USA
+* Kai Zhao, Florida State University, USA
 * Weijian Zheng, Argonne National Laboratory, USA
 
 
