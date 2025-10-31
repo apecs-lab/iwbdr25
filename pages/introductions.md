@@ -34,7 +34,7 @@ new research directions, and foster new collaborations within the community.
 
 ### Important Dates
 
-* Nov. 2, 2025: Due date for full workshop papers submission
+* <span style="color:red;"><del>Nov. 2</del></span> <span style="color:red;">Nov. 6</span>, 2025: Due date for full workshop papers submission
 * Nov. 15, 2025: Notification of paper acceptance to authors
 * Nov. 23, 2025: Camera-ready of accepted papers
 * Dec. 8–11, 2025: IWBDR-5 workshop
