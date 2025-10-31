@@ -34,12 +34,13 @@ new research directions, and foster new collaborations within the community.
 
 ### Important Dates
 
-* <span style="color:red;"><del>Nov. 2</del></span> <span style="color:red;">Nov. 6</span>, 2025: Due date for full workshop papers submission
+* <span style="color:black; text-decoration: line-through; text-decoration-color:red;"><del>Nov. 2</del></span> <span style="color:red;">Nov. 6</span>, 2025: Due date for full workshop papers submission
 * Nov. 15, 2025: Notification of paper acceptance to authors
 * Nov. 23, 2025: Camera-ready of accepted papers
 * Dec. 8–11, 2025: IWBDR-5 workshop
 
 ### Updates
 
+* [10/2025] The paper submission deadline has been extended to Nov. 6, 2025.
 * [07/2025] Submission site is open ([link](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)).
 * [06/2025] IWBDR-5 website is online.
