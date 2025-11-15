@@ -41,6 +41,7 @@ new research directions, and foster new collaborations within the community.
 
 ### Updates
 
+* [11/2025] Author notifications have been sent out.
 * [11/2025] The submission deadline has been extended to Nov. 7, 2025. NO further extensions will be granted.
 * [10/2025] The paper submission deadline has been extended to Nov. 6, 2025.
 * [07/2025] Submission site is open ([link](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)).
