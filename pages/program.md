@@ -1,4 +1,4 @@
-|Name|Value|
+|Time|Schedule|
 |----|---------|
 | 09:00–09:05 <img width=300/> | Opening Remarks and Welcome <img width=300/>|
 | 09:05–09:50 | Invited Talk #1             |

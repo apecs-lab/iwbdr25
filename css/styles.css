@@ -150,20 +150,46 @@ footer button:hover {
     width: 100%;
 }
 
-/* Table styling for markdown content */
+/* Modern Table Styling */
 .markdown-content table {
-    width: 100%;
+    width: auto;
+    min-width: 60%;
     border-collapse: collapse;
-    margin: 1em 0;
+    margin: 1em auto;
+    font-variant-numeric: tabular-nums;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    border-radius: 6px;
+    overflow: hidden;
 }
 
 .markdown-content th,
 .markdown-content td {
-    border: 1px solid #ccc;
-    padding: 8px;
+    padding: 12px 15px;
     text-align: left;
+    border-bottom: 1px solid #dddddd;
 }
 
 .markdown-content th {
-    background-color: #f5f5f5;
+    background-color: #333; /* Matches your header/nav */
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 0.05em;
+    position: sticky;
+    top: 0;
+}
+
+.markdown-content tbody tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+}
+
+.markdown-content tbody tr:last-of-type {
+    border-bottom: 2px solid #333;
+}
+
+.markdown-content tbody tr:hover {
+    background-color: #f1f1f1;
+    transition: background-color 0.2s ease-in-out;
 }
