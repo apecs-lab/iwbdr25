@@ -37,10 +37,13 @@ new research directions, and foster new collaborations within the community.
 * <span style="color:black; text-decoration: line-through; text-decoration-color:red;"><del>Nov. 2</del></span> <span style="color:red;">Nov. 7</span>, 2025: Due date for full workshop papers submission
 * Nov. 14, 2025: Notification of paper acceptance to authors
 * Nov. 23, 2025: Camera-ready of accepted papers
-* Dec. 8–11, 2025: IWBDR-5 workshop
+* Dec. 8, 2025: IWBDR-5 workshop
 
 ### Updates
 
+* [12/2025] [IWBDR-5](https://conferences.cis.um.edu.mo/ieeebigdata2025/program.html) will begin on Dec. 8th at 9:00 AM (UTC+8). Remote attendees can join via [Zoom](https://stevens.zoom.us/j/98382150509).
+* [12/2025] The program schedule and invited talk information are available online.
+* [12/2025] Dr. Benben Liu and Dr. Zhang Chen have agreed to serve as invited speakers.
 * [11/2025] Author notifications have been sent out.
 * [11/2025] The submission deadline has been extended to Nov. 7, 2025. NO further extensions will be granted.
 * [10/2025] The paper submission deadline has been extended to Nov. 6, 2025.
