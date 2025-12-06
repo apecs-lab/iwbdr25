@@ -10,7 +10,7 @@ The first part of the talk presents a voice-controlled mobile manipulator that i
 Bio: Dr. LIU Benben is a Project Manager at the Logistics and Supply Chain MultiTech R&D Centre (LSCM), one of the largest public research institutes in Hong Kong. He has over 17 years of research and professional experience in high-performance computing, cloud computing, and machine learning systems. He and his team are dedicated to the research and application of AI particularly large language models (LLMs) and embodied intelligence in Hong Kong, with research focus on deep learning, reinforcement learning, and embodied AI.
 
 
-**Invited Talk #1**
+**Invited Talk #2**
 
 Title: Algorithmic Arbitrage in Crypto Futures Markets
 
